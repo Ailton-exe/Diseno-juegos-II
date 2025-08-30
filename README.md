@@ -1,2 +1,2 @@
 # Diseno-juegos-II
- Actividad 1.4. Inicio del proyecto
+ Actividad 2.1. La primera ventana
