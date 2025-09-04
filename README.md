@@ -1,2 +1,3 @@
 # Diseno-juegos-II
- Actividad 2.1. La primera ventana
+ Actividad 2.2. El primer escenario
+
